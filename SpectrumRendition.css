@@ -1,0 +1,28 @@
+h2{
+  font-family: 'Potta One', cursive;
+  text-align: center;
+}
+table{
+  margin: auto;
+}
+td{
+  height: 300px;
+  width: 100px;
+  padding: 100px;
+  border: 6px solid white;
+}
+#one{
+  background-color: #FF9F1C;
+}
+#two{
+  background-color: #FFBF69;
+}
+#three{
+  background-color: #CCFFF8;
+}
+#four{
+  background-color: #CBF3F0;
+}
+#five{
+  background-color: #2EC4B6;
+}
